@@ -113,10 +113,10 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Thiagomdias22">
-        <img src="https://avatars.githubusercontent.com/u/61828200" width="100px;" alt="Foto do Thiago Moreira no GitHub"/><br>
-        <sub>
-          <b>Thiago Moreira</b>
+      <a href="https://github.com/RobertoMartins">
+        <img src="https://avatars.githubusercontent.com/u/58282580?v=4" width="100px;" alt="Foto do Roberto Martins no GitHub"/><br>
+        <sub> 
+          <b>Roberto Martins</b>
         </sub>
       </a>
     </td>
@@ -125,6 +125,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://avatars.githubusercontent.com/u/47244327" width="100px;" alt="Foto do Valtenis Souza no GitHub"/><br>
         <sub>
           <b>Valtenis Souza</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Thiagomdias22">
+        <img src="https://avatars.githubusercontent.com/u/61828200" width="100px;" alt="Foto do Thiago Moreira no GitHub"/><br>
+        <sub>
+          <b>Thiago Moreira</b>
         </sub>
       </a>
     </td>
